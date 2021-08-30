@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sakshi</h1>
-<h3 align="center">A girl with big dreams and passionate frontend developer</h3>
+<h1 align="center">Hi there👋, I'm Sakshi</h1>
+<h3 align="center">A girl that carries big dreams in her eyes</h3>
 
 - 🌱 I’m currently learning **Python and Front-end development**
 
