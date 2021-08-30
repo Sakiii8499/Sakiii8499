@@ -1,6 +1,8 @@
 <h1 align="center">Hi there👋, I'm Sakshi</h1>
 <h3 align="center">A girl that carries big dreams in her eyes</h3>
 
+- I am a passionate learner
+
 - 🌱 I’m currently learning **Python and Front-end development**
 
 - 📫 How to reach me **chedesakshi10@gmail.com**
