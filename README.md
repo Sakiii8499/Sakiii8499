@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
 <h3 align="center">A girl with big dreams and passionate frontend developer</h3>
 
-<p align="left"> <a href="https://twitter.com/sakshi_chede" target="blank"><img src="https://img.shields.io/twitter/follow/sakshi_chede?logo=twitter&style=for-the-badge" alt="sakshi_chede" /></a> </p>
-
 - 🌱 I’m currently learning **Python and Front-end development**
 
 - 📫 How to reach me **chedesakshi10@gmail.com**
