@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/sakshi_chede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakshi_chede" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sakshi-chede-6424ba1a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sakshi-chede-6424ba1a6" height="30" width="40" /></a>
-<a href="https://instagram.com/__mechgirl__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__mechgirl__" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/chedesakshi10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chedesakshi10" height="30" width="40" /></a>
 </p>
 
